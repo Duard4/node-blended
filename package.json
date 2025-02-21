@@ -1,0 +1,17 @@
+{
+	"name": "blended",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"generate": "node src/scripts/createProducts",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"@faker-js/faker": "^9.5.0"
+	}
+}
