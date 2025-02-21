@@ -5,6 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"generate": "node src/scripts/createProducts",
+		"filterByPrice": "node src/scripts/getProductsByMinPrice",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
